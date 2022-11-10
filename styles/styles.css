@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+}
+
+.main-header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-header {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+    height: 68px;
+    background: #141414;
+    border-radius: 0px;
+}
+
+.header-left {
+    display: flex;
+    margin-left: 394px;
+}
+
+.architecture {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 15px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.75);
+    margin: 27px 4px;
+}
+
+.made-with {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 27px 5px;
+}
+
+.heart-img {
+    height: 17px;
+    border-radius: 0px;
+    margin: 27px 4px;
+}
+
+.navigation-item {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 34px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration-line: none;
+}
+
+.header-right {
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    width: 559px;
+    height: 33px;
+    margin-right: 70px;
+}
+
+.bottom-header {
+    display: flex;
+    height: 659px;
+    background: #141414;
+    border-radius: 0px;
+}
