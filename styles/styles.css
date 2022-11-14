@@ -237,3 +237,70 @@ body {
     padding-right: 20px;
     padding-left: 17px;
 }
+
+.section-first {
+    width: 1440px;
+    height: 872px;
+    background: #EBEBEB;
+    padding-top: 135px;
+}
+
+.about-us {
+    height: 321px;
+    width: 1312px;    
+}
+
+.about-us-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+    margin-left: 130px;
+}
+
+.content-text-title {
+    height: 106px;
+    width: 655px;
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 53px;
+    line-height: 53px;
+    text-transform: capitalize;
+    color: #141414;
+    margin-left: 130px;
+}
+
+.context-text {
+    margin-left: 130px;
+    margin-top: 28px;
+}
+
+.context-text-style-one {
+    height: 51px;
+    width: 683px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #141414;
+    margin: 0;
+}
+
+.context-text-style-two {
+    height: 102px;
+    width: 684px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #141414;
+    margin: 0;
+    margin-top: 15px;
+}
