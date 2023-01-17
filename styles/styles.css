@@ -239,15 +239,17 @@ body {
 }
 
 .section-first {
+    display: flex;
+    justify-content: center;
     width: 1440px;
-    height: 872px;
     background: #EBEBEB;
     padding-top: 135px;
+    padding-bottom: 65px;
 }
 
 .about-us {
     height: 321px;
-    width: 1312px;    
+    width: 820px;   
 }
 
 .about-us-text {
@@ -259,7 +261,6 @@ body {
     letter-spacing: 2.7625px;
     text-transform: uppercase;
     color: #99823D;
-    margin-left: 130px;
 }
 
 .content-text-title {
@@ -272,11 +273,9 @@ body {
     line-height: 53px;
     text-transform: capitalize;
     color: #141414;
-    margin-left: 130px;
 }
 
 .context-text {
-    margin-left: 130px;
     margin-top: 28px;
 }
 
@@ -302,5 +301,275 @@ body {
     line-height: 26px;
     color: #141414;
     margin: 0;
-    margin-top: 15px;
+    padding-top: 15px;
+}
+
+.content-block-right {
+    height: 321px;
+    width: 424px;
+    padding-top: 35px;
+}
+
+.about-us-text-second {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+    padding-left: 34px;
+    padding-bottom: 10px;
+}
+
+.title-right-one {
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px; 
+    text-transform: capitalize; 
+    color: #141414;
+    padding-left: 35px;
+    height: 53px;
+    width: 323px;
+    padding-bottom: 75px;
+}
+
+.section-second {
+    display: flex;
+    width: 1440px;
+    background: #EBEBEB;
+    padding-bottom: 135px;
+}
+
+.projects {
+    padding-left: 80px;
+}
+
+.quantity {
+    width: 120px;
+    height: 59px;
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 59px;
+    line-height: 59px;
+    text-align: center;
+    color: #141414;
+}
+
+.onestyle {
+    width: 78px;
+    height: 18px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+    color: #99823D;
+    padding-left: 20px;
+}
+
+.brownsquare {
+    height: 9px;
+    width: 9px;
+    background: #99823D;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.section-third {
+    width: 1440px;
+    background: #EBEBEB;
+    height: 140px;
+}
+
+.block-with-photo {
+}
+
+.part-one {
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.living-room {
+    height: 342.296875px;
+    width: 411.984375px;
+    padding-left: 65px;
+    padding-right: 35px;
+}
+
+.view-house {
+    height: 342.296875px;
+    width: 411.984375px;
+    padding-right: 35px;
+}
+
+.dining-room {
+    height: 342.296875px;
+    width: 411.984375px;
+    padding-right: 65px;
+}
+
+.part-two {
+    width: 11px;
+    height: 11px;
+    background: #222222;
+    margin: auto;
+}
+
+.section-forth {
+    
+}
+
+.block-services{
+    margin-top: 330px;
+}
+
+.services {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+    margin: auto;
+    height: 17px;
+    width: 74px;
+    padding-bottom: 5px;
+}
+
+.title-arhitecture {
+    height: 106px;
+    width: 801px;
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 53px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #141414;
+    margin: auto;
+}
+
+.list-about-arhitecture {
+    height: 459px;
+    width: 1312px;
+    margin: auto;
+    padding-top: 55px;
+    padding-bottom: 90px;
+}
+
+.size-list-about-arhitecture {
+    height: 459px;
+    width: 1176px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content-list-about-arhitectire {
+    height: 228px;
+    width: 391.328125px;
+}
+
+.top-block-list {
+    height: 68px;
+    width: 214px;
+    display: flex;
+}
+
+.pensil-photo {
+    height: 68px;
+    width: 68px;
+    padding-right: 20px;
+}
+
+.date-and-title-list-arhitecture {
+    height: 58.90625px;
+    width: 129px;
+}
+
+.date {
+    height: 17px;
+    width: 43px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+    padding-bottom: 10px;
+}
+
+.title-list-arhitecture {
+    height: 27px;
+    width: 129px;
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #141414;
+}
+
+.description-list-arhitecture {
+    height: 77px;
+    width: 292px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #141414;
+    padding-top: 20px;
+}
+
+.button-bottom {
+    height: 68px;
+    width: 1312px;
+    margin: auto;
+    padding-bottom: 105px;
+}
+
+.size-button-services {
+    height: 68px;
+    width: 392px;
+    margin: auto;
+}
+
+.see-all-services {
+    height: 68px;
+    width: 392px;
+    background: #99823D;
+    border-radius: 0px;
+    border: none;
+    cursor: pointer;
+}
+
+.see-all-services:hover {
+    background: #6f5505;
+}
+
+.text-on-the-button {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+    color: #FFFFFF;
 }
